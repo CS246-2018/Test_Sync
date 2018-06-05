@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
     private ListView list;
     private ProgressBar progressBar;
 
+    // This is my comment.  There are many like it, but this one is mine.  Without me, my
+    // comment is nothing.  Without my comment, I am nothing.
 
 
 
