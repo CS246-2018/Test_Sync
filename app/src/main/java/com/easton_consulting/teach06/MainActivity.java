@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
 
 
-
+     //This is spencer's comments
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
